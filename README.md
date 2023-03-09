@@ -2,6 +2,8 @@ Photo Match Game
 
 ![alt text](match_me_photo.png)
 
+![alt_text](game_complete.png)
+
 This is a simple game where players have to match photos from 20 boxes. Each box contains a hidden photo, which only appears when the player clicks on it. Once the player has clicked on two boxes and the consecutive photos are the same, the photos will be opened permanently. The goal of the game is to open all the boxes and match all the photos.
 
 How to Play
